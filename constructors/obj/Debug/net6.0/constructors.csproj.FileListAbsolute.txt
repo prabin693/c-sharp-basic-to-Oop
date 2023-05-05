@@ -1,0 +1,15 @@
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\bin\Debug\net6.0\constructors.exe
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\bin\Debug\net6.0\constructors.deps.json
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\bin\Debug\net6.0\constructors.runtimeconfig.json
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\bin\Debug\net6.0\constructors.dll
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\bin\Debug\net6.0\constructors.pdb
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\constructors.csproj.AssemblyReference.cache
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\constructors.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\constructors.AssemblyInfoInputs.cache
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\constructors.AssemblyInfo.cs
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\constructors.csproj.CoreCompileInputs.cache
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\constructors.dll
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\refint\constructors.dll
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\constructors.pdb
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\constructors.genruntimeconfig.cache
+E:\Dotnet\c-sharp-basic-to-Oop\constructors\obj\Debug\net6.0\ref\constructors.dll
