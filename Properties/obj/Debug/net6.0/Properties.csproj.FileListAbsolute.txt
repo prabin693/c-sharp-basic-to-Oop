@@ -1,0 +1,15 @@
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\bin\Debug\net6.0\Properties.exe
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\bin\Debug\net6.0\Properties.deps.json
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\bin\Debug\net6.0\Properties.dll
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\bin\Debug\net6.0\Properties.pdb
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\Properties.dll
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\refint\Properties.dll
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\Properties.pdb
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+E:\Dotnet\c-sharp-basic-to-Oop\Properties\obj\Debug\net6.0\ref\Properties.dll
